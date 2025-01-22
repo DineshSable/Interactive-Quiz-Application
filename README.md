@@ -13,3 +13,8 @@
 # MENTOR NAME: NEELA SANTHOSH
 
 # Description:
+
+# Output:
+
+![Image](https://github.com/user-attachments/assets/eaa54008-f769-4311-b120-7abd5bd35bc2)
+![Image](https://github.com/user-attachments/assets/fbb1904c-09c9-4464-af7d-0d9e78111996)
